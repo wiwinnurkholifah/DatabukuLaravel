@@ -1,5 +1,5 @@
 
-- Nama  : Ade Wiwin Nur Kholifah
+- Nama  :  Wiwin Nur Kholifah
 - NIM   : 18090030
 - Kelas : 6B
 #### Tools
